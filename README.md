@@ -2,4 +2,4 @@
 Jenkins project
 git-webhook
 111
-* Transfer
+* Transfer over ssh
